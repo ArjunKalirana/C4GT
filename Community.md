@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Arjun Choudhary</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ArjunKalirana</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/arjun-choudhary-/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Army Institute of Technology</td>
+  </tr>
+</table>
